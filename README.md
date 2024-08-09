@@ -1,1 +1,1 @@
-# mentors-dev-landing-page
+# mentors.dev landing page
